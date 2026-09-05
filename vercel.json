@@ -2,6 +2,5 @@
   "framework": "vite",
   "buildCommand": "npm run build --workspaces",
   "outputDirectory": "apps/web/dist",
-  "installCommand": "npm install",
-  "functions": "apps/server"
+  "installCommand": "npm install"
 }
